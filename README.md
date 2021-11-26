@@ -1,2 +1,2 @@
 # Calculator
-Arithmetic Operations in Python
+Calculator operations using Python
